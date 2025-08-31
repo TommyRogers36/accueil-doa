@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/accueil-doa/static/css/main.ad4cdd96.css",
-    "main.js": "/accueil-doa/static/js/main.b6003ae8.js",
+    "main.js": "/accueil-doa/static/js/main.1d665169.js",
     "static/js/453.8c03b6fd.chunk.js": "/accueil-doa/static/js/453.8c03b6fd.chunk.js",
     "static/media/pittman.png": "/accueil-doa/static/media/pittman.3b419abb9ff828e145e9.png",
     "static/media/backgrounddoa.png": "/accueil-doa/static/media/backgrounddoa.a082a775c97028fe9b23.png",
@@ -18,11 +18,11 @@
     "static/media/fa-v4compatibility.woff2": "/accueil-doa/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
     "index.html": "/accueil-doa/index.html",
     "main.ad4cdd96.css.map": "/accueil-doa/static/css/main.ad4cdd96.css.map",
-    "main.b6003ae8.js.map": "/accueil-doa/static/js/main.b6003ae8.js.map",
+    "main.1d665169.js.map": "/accueil-doa/static/js/main.1d665169.js.map",
     "453.8c03b6fd.chunk.js.map": "/accueil-doa/static/js/453.8c03b6fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4cdd96.css",
-    "static/js/main.b6003ae8.js"
+    "static/js/main.1d665169.js"
   ]
 }
