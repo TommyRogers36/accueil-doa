@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Liste de course",
+        "icon": "notepad",
+        "type": "text",
+        "contenu": "<ul><li>Hlib</li><li>Mayai</li><li>Mentega</li><li>Ifu</li><li>Suka</li><li>Suika</li><li>паста</li><li>şokolad</li><li>Buz</li><li>πλύσιμο</li><li>Labiera</li><li>Umhlaba</li><li>Töpfe</li></ul>"
+    },
+    {
+        "name": "Rogers",
+        "icon": "images",
+        "type": "image"
+    },
+    {
+        "name": "A faire",
+        "icon": "notepad",
+        "type": "text",
+        "contenu": "<ul><li>Vérifier le dossier “Opération Nightfall” dans l’armoire sécurisée.</li><li>Contacter la source X-12 et confirmer le point de rendez-vous.</li><li>Croiser les registres de cargaisons du port avec la base de données interne.</li><li>Changer le mot de passe du serveur principal (protocole Alpha).</li><li>Récupérer les résultats du laboratoire sur l’échantillon saisi (Lot #C9-47).</li><li>Mettre à jour la liste des suspects prioritaires.</li><li>Installer une surveillance discrète sur le hangar Pegasus.</li><li>Vérifier le contenu du coffre-fort.</li><li>Transférer le rapport crypté au siège (utiliser canal sécurisé uniquement).</li><li>Préparer le briefing de demain matin avec le chef d’unité.</li></ul>"
+    },
+    {
+        "name": "Pittman",
+        "icon": "images",
+        "type": "image"
+    },
+    {
+        "name": "Lewis",
+        "icon": "images",
+        "type": "image"
+    },
+    {
+        "name": "Agenda S36",
+        "icon": "notepad",
+        "type": "text",
+        "contenu": "<ul><li>03/09/2025 - 9h30 - Briefing Interne - Chef Unité Juliette Keller</li><li>03/09/2025 - 11h00 - Inspecteur de la douane portuaire - Mike Ruiz</li><li>03/09/2025 - 14h15 - Entretien sous couverture - Manuel Silva</li><li>04/09/2025 - 08h00 - Point sécurité - Division cyber</li><li>04/09/2025 - 10h45 - Rencontre - Source X-12</li><li>04/09/2025 - 16h30 - Coordination avec Interpol - Moretti</li><li>05/09/2025 - 07h50 - Surveillance aéroport - Équipe Bravo</li><li>05/09/2025 - 13h10 - Débriefing rapide - Agent Ludovic Duval</li><li>06/09/2025 - 09h00 - Rencontre - Orion</li><li>06/09/2025 - 15h40 - Analyse laboratoire - Dr.Han</li></ul>"
+    },
+    {
+        "name": "Nouveau document",
+        "icon": "notepad",
+        "type": "text",
+        "contenu": "J’ai remarqué que les horloges murales ne sonnent jamais exactement à la même minute, ce qui crée un petit décalage dans les réunions de l’étage supérieur. Les plantes du hall semblent pousser dans des directions imprévisibles, comme si elles voulaient éviter certains rayons de lumière. J’ai essayé de mesurer l’angle des feuilles avec un rapporteur, mais les chiffres n’avaient aucun sens. Hier, quelqu’un a laissé un paquet de biscuits sur le bureau, mais je n’ai aucune idée de qui, ni pourquoi. Les biscuits eux-mêmes sont disposés de manière étrange, avec un côté plus croustillant que l’autre. Le son du photocopieur change parfois selon le moment de la journée. Aujourd’hui, il ressemblait presque à une petite mélodie, mais je ne suis pas sûr que quelqu’un d’autre l’ait remarquée. Le code de la porte de gauche quand on rentr est 3303. J’ai tenté de classer les trombones par taille et couleur, mais ils finissent toujours par se mélanger, et je me retrouve à les compter sans fin. Les papiers sur la table de réunion 4D ont des coins légèrement froissés, et je me demande si c’est le vent ou un mouvement invisible. Peut-être que cela a une signification… ou peut-être pas. Pour l’instant, je continue à remplir ce document avec des observations et des idées, même si aucune ne mène à quelque chose de concret. C’est fascinant, mais complètement inutile."
+    },
+    {
+        "name": "Denver",
+        "icon": "images",
+        "type": "image"
+    },
+    {
+        "name": "Notes",
+        "icon": "notepad",
+        "type": "text",
+        "contenu": "<ul><li>Le mot de passe a été changé hier soir, attention à la majuscule.</li><li>Ne jamais laisser traîner les rapports papier dans la salle de réunion.</li><li>Le suspect se fait appeler <em>Orion</em>… identité réelle encore inconnue.</li><li>Source X-12 : fiable, mais demande une contrepartie.</li><li>Le hangar Pegasus semble être utilisé pour les transferts nocturnes.</li><li>L’agent Keller insiste : vérifier les cargaisons à destination de Marseille.</li><li>Toujours utiliser le canal chiffré Gamma pour transmettre les rapports.</li><li>Dossier “Nightfall” : accès uniquement niveau 4 et plus.</li><li>La clé du coffre est dans le tiroir</li><li>Attention : infiltration possible au sein même de l’agence.</li></ul>"
+    },
+    {
+        "name": "Materson",
+        "icon": "images",
+        "type": "image"
+    },
+    {
+        "name": "Nouveau document(2)",
+        "icon": "notepad",
+        "type": "text",
+        "contenu": "Hier, j’ai remarqué que les horloges du couloir semblaient légèrement en retard, ce qui pourrait expliquer la confusion autour des clés de la salle 4B. Ensuite, j’ai essayé de ranger les dossiers par couleur, mais le vert et le turquoise se mélangent toujours d’une manière étrange, donnant l’impression qu’il manque quelque chose dans la pile du milieu. Pendant ce temps, les stylos bleus disparaissent mystérieusement, et je me demande si le fournisseur de café a vraiment livré les capsules de la semaine dernière ou si elles ont été réassignées à un autre bureau. Le chat du voisin passe souvent par la fenêtre du 3ᵉ étage, mais il semble particulièrement intéressé par le ruban adhésif sur la table. J’ai essayé de noter tout ça dans un tableau, mais les colonnes se décalent toujours, et les chiffres deviennent des lettres sans raison apparente. Demain, je prévois de vérifier les rideaux de la salle de réunion : peut-être que leur longueur affecte la trajectoire des ombres, ou peut-être que c’est juste une illusion d’optique. Enfin, il reste à confirmer si les graines de tournesol doivent être mises dans la boîte A ou B, car cela pourrait modifier le planning des plantes d’intérieur pour le mois prochain. Pour l’instant, je continue à remplir ce document avec des notes aléatoires, afin que personne ne sache vraiment ce qui est important et ce qui ne l’est pas."
+    },
+    {
+        "name": "Nouveau document(3)",
+        "icon": "notepad",
+        "type": "text",
+        "contenu": "Aujourd’hui, j’ai observé que les chaises de la cafétéria ne sont jamais vraiment alignées, peu importe combien de fois on essaie de les arranger. Le bruit du ventilateur dans le couloir B semble changer selon l’angle où on se tient, et parfois je me demande si c’est vraiment le ventilateur ou juste mon imagination. Les étiquettes des boîtes à archives continuent de se décoller, et je me retrouve à essayer de deviner ce qu’il y avait dedans. Curieusement, certaines étiquettes portent des symboles que je n’ai jamais vus auparavant. Pendant que je cherchais un trombone, j’ai trouvé une petite carte avec un dessin de mouton sur un skateboard, que je n’avais jamais vue. Je ne sais pas si elle était là depuis longtemps ou si quelqu’un l’a mise exprès. Les notes sur le tableau blanc sont effacées de manière irrégulière, ce qui rend les anciens chiffres presque illisibles. Peut-être que quelqu’un joue à un jeu secret avec les marqueurs. Les rideaux de la salle 7C bougent toujours un peu, même quand la fenêtre est fermée, et je soupçonne que le vent joue un rôle, ou peut-être le chat du voisin… encore lui. Je me demande si écrire toutes ces observations aide vraiment à quelque chose, mais pour l’instant, le document se remplit, page après page, sans qu’aucune conclusion ne se dégage."
+    }
+]
