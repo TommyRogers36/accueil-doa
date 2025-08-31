@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/escape-doa-accueil/static/css/main.dca7ec65.css",
-    "main.js": "/escape-doa-accueil/static/js/main.fcb09100.js",
-    "static/js/453.8c03b6fd.chunk.js": "/escape-doa-accueil/static/js/453.8c03b6fd.chunk.js",
-    "static/media/pittman.png": "/escape-doa-accueil/static/media/pittman.3b419abb9ff828e145e9.png",
-    "static/media/backgrounddoa.png": "/escape-doa-accueil/static/media/backgrounddoa.a082a775c97028fe9b23.png",
-    "static/media/denver.png": "/escape-doa-accueil/static/media/denver.fad524298450aa9003a9.png",
-    "static/media/lewis.png": "/escape-doa-accueil/static/media/lewis.eca6bbf8a7b44e0659db.png",
-    "static/media/materson.png": "/escape-doa-accueil/static/media/materson.3bda744167563c368d90.png",
-    "static/media/rogers.png": "/escape-doa-accueil/static/media/rogers.784d92971fb10cb8b5a7.png",
-    "static/media/fa-solid-900.woff2": "/escape-doa-accueil/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
-    "static/media/fa-brands-400.woff2": "/escape-doa-accueil/static/media/fa-brands-400.1f6bad931d92a0a52c45.woff2",
-    "static/media/hirys.png": "/escape-doa-accueil/static/media/hirys.46de66a847c951f8de91.png",
-    "static/media/fa-regular-400.woff2": "/escape-doa-accueil/static/media/fa-regular-400.5632c43107f4d3fa4806.woff2",
-    "static/media/image.png": "/escape-doa-accueil/static/media/image.3d46721874aa47d35ff0.png",
-    "static/media/ifruit.png": "/escape-doa-accueil/static/media/ifruit.6ae9a247ae996df3f9e3.png",
-    "static/media/fa-v4compatibility.woff2": "/escape-doa-accueil/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
-    "index.html": "/escape-doa-accueil/index.html",
-    "main.dca7ec65.css.map": "/escape-doa-accueil/static/css/main.dca7ec65.css.map",
-    "main.fcb09100.js.map": "/escape-doa-accueil/static/js/main.fcb09100.js.map",
-    "453.8c03b6fd.chunk.js.map": "/escape-doa-accueil/static/js/453.8c03b6fd.chunk.js.map"
+    "main.css": "/accueil-doa/static/css/main.ad4cdd96.css",
+    "main.js": "/accueil-doa/static/js/main.b6003ae8.js",
+    "static/js/453.8c03b6fd.chunk.js": "/accueil-doa/static/js/453.8c03b6fd.chunk.js",
+    "static/media/pittman.png": "/accueil-doa/static/media/pittman.3b419abb9ff828e145e9.png",
+    "static/media/backgrounddoa.png": "/accueil-doa/static/media/backgrounddoa.a082a775c97028fe9b23.png",
+    "static/media/denver.png": "/accueil-doa/static/media/denver.fad524298450aa9003a9.png",
+    "static/media/lewis.png": "/accueil-doa/static/media/lewis.eca6bbf8a7b44e0659db.png",
+    "static/media/materson.png": "/accueil-doa/static/media/materson.3bda744167563c368d90.png",
+    "static/media/rogers.png": "/accueil-doa/static/media/rogers.784d92971fb10cb8b5a7.png",
+    "static/media/fa-solid-900.woff2": "/accueil-doa/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
+    "static/media/fa-brands-400.woff2": "/accueil-doa/static/media/fa-brands-400.1f6bad931d92a0a52c45.woff2",
+    "static/media/hirys.png": "/accueil-doa/static/media/hirys.46de66a847c951f8de91.png",
+    "static/media/fa-regular-400.woff2": "/accueil-doa/static/media/fa-regular-400.5632c43107f4d3fa4806.woff2",
+    "static/media/image.png": "/accueil-doa/static/media/image.3d46721874aa47d35ff0.png",
+    "static/media/ifruit.png": "/accueil-doa/static/media/ifruit.6ae9a247ae996df3f9e3.png",
+    "static/media/fa-v4compatibility.woff2": "/accueil-doa/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
+    "index.html": "/accueil-doa/index.html",
+    "main.ad4cdd96.css.map": "/accueil-doa/static/css/main.ad4cdd96.css.map",
+    "main.b6003ae8.js.map": "/accueil-doa/static/js/main.b6003ae8.js.map",
+    "453.8c03b6fd.chunk.js.map": "/accueil-doa/static/js/453.8c03b6fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dca7ec65.css",
-    "static/js/main.fcb09100.js"
+    "static/css/main.ad4cdd96.css",
+    "static/js/main.b6003ae8.js"
   ]
 }
